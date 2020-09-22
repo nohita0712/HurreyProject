@@ -1,0 +1,18 @@
+.page-container{
+height: 100%;
+}
+
+.sidebar{
+    height: 100%;
+    width: 300px;
+    background: skyblue;
+}
+.list-items{
+    padding-top: 50px;
+}
+
+.list-item{
+    font-size: 20px;
+    color: black;
+    padding: 10px 30px;
+}
